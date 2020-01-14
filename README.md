@@ -14,7 +14,14 @@ INTEGRANTES:
 
 ## 0) Tecnologias Utilizadas
 
-Laravel, HTML, CSS, Javascript, PHP, GitHub, MySQL, Apache.
+   - Laravel
+   - HTML
+   - CSS
+   - Javascript
+   - PHP
+   - GitHub
+   - MySQL
+   - Apache
  
 ## 1) Problema
 
