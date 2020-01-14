@@ -9,9 +9,12 @@ INTEGRANTES:
    - LUCAS BRABEC
    - MATHEUS AQUINO
    - EDSON MARQUES
-   
-  
+
 *OBS: Como o projeto foi realizado para o departamento o projeto é privado. Segue somente o readme publico.
+
+## 0) Tecnologias Utilizadas
+
+Laravel, HTML, CSS, Javascript, PHP, GitHub, MySQL, Apache.
  
 ## 1) Problema
 
